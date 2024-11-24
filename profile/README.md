@@ -24,7 +24,7 @@ We bring together young minds from various backgrounds to work on AI-related pro
 ### How to Get Involved
 
 We welcome contributors and collaborators! Here's how you can get involved:
-- **Join our Discussions**: Engage with the community through [GitHub Discussions](https://github.com/AI-Youth-Alliance/Discussions).
+- **Join our Discussions**: Engage with the community through [GitHub Discussions](https://github.com/org/AI-Youth-Alliance/Discussions).
 - **Contribute to Projects**: Check out our open-source AI projects and help us improve them.
 - **Mentorship Opportunities**: If you're experienced in AI, consider becoming a mentor for new members.
 
