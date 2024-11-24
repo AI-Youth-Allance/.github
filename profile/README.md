@@ -30,7 +30,7 @@ We welcome contributors and collaborators! Here's how you can get involved:
 
 ### Resources
 
-- **Research Papers**: Find valuable AI research papers and articles shared by our members [here](https://github.com/AI-Youth-Alliance/Research-Paper-Submission).
+- **Research Papers**: Find valuable AI research papers and articles shared by our members [here](https://github.com/org/AI-Youth-Alliance/Research-Paper-Submission).
 - **Workshops and Tutorials**: Keep an eye out for upcoming AI workshops and tutorials.
 
 ### Visit Our Official Website
