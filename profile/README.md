@@ -9,7 +9,7 @@ We bring together young minds from various backgrounds to work on AI-related pro
 ### Visit Our Official Website
 
 For more information about our initiatives, upcoming events, and projects, visit our official website: 
-# [AI Youth Alliance](https://aiyouthalliance.tech/).
+# [AI Youth Alliance](https://aiyouthalliance.tech/)
 
 ### Our Mission
 - **Foster collaboration** among young AI enthusiasts.
