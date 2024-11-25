@@ -6,6 +6,11 @@ Welcome to **AI Youth Alliance**! We are a passionate community dedicated to adv
 
 We bring together young minds from various backgrounds to work on AI-related projects, share knowledge, and foster growth in the AI ecosystem. Our members come from diverse fields such as research, software development, and data science, contributing to the rapidly growing AI space.
 
+### Visit Our Official Website
+
+For more information about our initiatives, upcoming events, and projects, visit our official website: 
+# [AI Youth Alliance](https://aiyouthalliance.tech/).
+
 ### Our Mission
 - **Foster collaboration** among young AI enthusiasts.
 - **Promote research** in AI to solve real-world problems.
@@ -33,9 +38,6 @@ We welcome contributors and collaborators! Here's how you can get involved:
 - **Research Papers**: Find valuable AI research papers and articles shared by our members [here](https://github.com/org/AI-Youth-Alliance/Research-Paper-Submission).
 - **Workshops and Tutorials**: Keep an eye out for upcoming AI workshops and tutorials.
 
-### Visit Our Official Website
-
-For more information about our initiatives, upcoming events, and projects, visit our official website: [AI Youth Alliance](https://aiyouthalliance.tech/).
 
 ### Fun Fact 🍿
 Our team loves solving AI challenges over virtual coffee breaks!
